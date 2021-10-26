@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/NetflixReact.git/static/css/main.31bb975d.chunk.css",
+    "main.js": "/NetflixReact.git/static/js/main.77a62553.chunk.js",
+    "main.js.map": "/NetflixReact.git/static/js/main.77a62553.chunk.js.map",
+    "runtime-main.js": "/NetflixReact.git/static/js/runtime-main.c42f29f5.js",
+    "runtime-main.js.map": "/NetflixReact.git/static/js/runtime-main.c42f29f5.js.map",
+    "static/js/2.80757db9.chunk.js": "/NetflixReact.git/static/js/2.80757db9.chunk.js",
+    "static/js/2.80757db9.chunk.js.map": "/NetflixReact.git/static/js/2.80757db9.chunk.js.map",
+    "index.html": "/NetflixReact.git/index.html",
+    "static/css/main.31bb975d.chunk.css.map": "/NetflixReact.git/static/css/main.31bb975d.chunk.css.map",
+    "static/js/2.80757db9.chunk.js.LICENSE.txt": "/NetflixReact.git/static/js/2.80757db9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c42f29f5.js",
+    "static/js/2.80757db9.chunk.js",
+    "static/css/main.31bb975d.chunk.css",
+    "static/js/main.77a62553.chunk.js"
+  ]
+}
